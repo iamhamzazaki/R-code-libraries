@@ -54,4 +54,20 @@ library(keras)
 
 
 # R-code-libraries
-Libraries
+ggplot2
+stringi
+stringr
+texreg
+udpipe
+flextable
+here
+dplyr
+ggcorrplot
+PerformanceAnalytics
+caret
+leaflet
+shiny
+rvest
+plotly
+tidyverse
+keras
