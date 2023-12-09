@@ -1,5 +1,5 @@
 #####################################################################################
-#script: R code  
+#script: R libraires for Loading
 #date: 24.06.2019
 #author: Oliver Westerwinter
 #Release: Compatilble till 4.3.1
@@ -21,9 +21,19 @@ install.packages("here")
 install.packages("dplyr")
 install.packages("ggcorrplot")
 install.packages("PerformanceAnalytics")
+install.packages("caret")
+install.packages("leaflet")
+install.packages("shiny")
+install.packages("rvest")
+install.packages("plotly")
+install.packages("caret")
+install.packages("tidyverse")
+install.packages("leaflet")
+install.packages("rvest")
+install.packages("keras")
+
 
 library(dplyr)
-library(ggplot2)
 library(stringi)
 library(stringr)
 library(texreg)
@@ -32,5 +42,16 @@ library(flextable)
 library(here)
 library(ggcorrplot)
 library(PerformanceAnalytics)
+library(caret)
+library(leaflet)
+library(shiny)
+library(rvest)
+library(plotly)
+library(tidyverse)
+library(keras)
+
+
+
+
 # R-code-libraries
 Libraries
